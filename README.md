@@ -1,8 +1,8 @@
-🛒 Blinkit Data Analysis - Excel Dashboard Project
-
- 
+ 🛒 Blinkit Retail Analysis - Excel Dashboard Project
 
 This project features an **interactive retail analytics dashboard built entirely in Excel** using data for **Blinkit**, India’s last-minute delivery app. The dashboard provides deep insights into sales, outlet types, item categories, and regional trends.
+
+
 
 ---
 
@@ -57,9 +57,4 @@ This project features an **interactive retail analytics dashboard built entirely
 
 ---
 
-## 📂 File Structure
 
-📦 Blinkit-Excel-Dashboard/
-├── 📄 Blinkit_Dashboard.xlsx # Main Excel file with dashboard
-├── 📸 BlinKIT dashboard.png # Dashboard screenshot
-└── 📄 README.md # Project documentation
