@@ -57,4 +57,7 @@ This project features an **interactive retail analytics dashboard built entirely
 
 ---
 
+### 📊 Visualization :
+![image alt](https://github.com/Ankita-Wasekar/Blinkit-Data-project-/blob/b1f95d654ad4d4ac2c74b64cc52137041ffe6b0c/BlinKIT%20dashboard.png)
+
 
